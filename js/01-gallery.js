@@ -30,4 +30,5 @@ galleryItemsList.addEventListener('click', (e) => {
   )
   instance.show()
 })
+
 console.log(galleryItems)
